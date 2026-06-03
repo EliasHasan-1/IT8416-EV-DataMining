@@ -60,5 +60,10 @@ Watch the full project walkthrough on YouTube:
 [IT8416 Data Mining Project — Video Demo](YOUR_YOUTUBE_LINK_HERE)
 
 ## Author
+1:Elias Hasan
+2:Ebrahim Emad
+3:Salman Alghazal
+4:Ali Alqallaf
+5:Mohammed Altaition
 
 Bahrain Polytechnic — IT8416 Data Mining
