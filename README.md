@@ -57,7 +57,7 @@ most important feature separating BEV from PHEV vehicles, confirmed by PCA
 ## Video Demonstration
 
 Watch the full project walkthrough on YouTube:  
-[IT8416 Data Mining Project — Video Demo]([YOUR_YOUTUBE_LINK_HERE](https://youtu.be/AXdj9IlSQNk]))
+[IT8416 Data Mining Project — Video Demo]([YOUR_YOUTUBE_LINK_HERE](https://youtu.be/AXdj9IlSQNk])
 )
 
 ## Author
