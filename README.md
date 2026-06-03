@@ -48,3 +48,17 @@ most important feature separating BEV from PHEV vehicles, confirmed by PCA
 (PC1 explains 99.9% of numeric variance).
 
 ## Project Structure
+
+- `task3_cleaned_data.rmp` — Preprocessing pipeline
+- `task4_models.rmp` — Classification models  
+- `report.docx` — Full project report
+- `README.md` — This file
+
+## Video Demonstration
+
+Watch the full project walkthrough on YouTube:  
+[IT8416 Data Mining Project — Video Demo](YOUR_YOUTUBE_LINK_HERE)
+
+## Author
+
+Bahrain Polytechnic — IT8416 Data Mining
