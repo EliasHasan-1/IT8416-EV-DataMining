@@ -28,7 +28,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/ratikkakkar/electric-vehicle-po
 | File | Description |
 |------|-------------|
 | `task3_cleaned_data.rmp` | Data cleaning and preprocessing pipeline |
-| `task4_models.rmp` | Model building — Decision Tree, Naive Bayes, Vote Ensemble |
+| `Task 4 spliting and training with various models.rmp` | Model building — Decision Tree, Naive Bayes, Vote Ensemble |
 
 ## Models and Results
 
